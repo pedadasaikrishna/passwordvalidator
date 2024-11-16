@@ -51,5 +51,5 @@ You can test the password validation by typing a password into the input field a
 
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or contribute to the project! I appreciate your support.
 
-Thank you for using my project! 🙏
+Thank you for visiting my project! 🙏
 ```
